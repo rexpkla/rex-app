@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/rex-app/static/css/main.f855e6bc.css",
+    "main.js": "/rex-app/static/js/main.c40f0fd3.js",
+    "static/js/453.9561a4dc.chunk.js": "/rex-app/static/js/453.9561a4dc.chunk.js",
+    "index.html": "/rex-app/index.html",
+    "main.f855e6bc.css.map": "/rex-app/static/css/main.f855e6bc.css.map",
+    "main.c40f0fd3.js.map": "/rex-app/static/js/main.c40f0fd3.js.map",
+    "453.9561a4dc.chunk.js.map": "/rex-app/static/js/453.9561a4dc.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f855e6bc.css",
+    "static/js/main.c40f0fd3.js"
+  ]
+}
